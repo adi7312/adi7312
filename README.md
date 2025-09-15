@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 Student with deep passion for security engineering, pentests, binary exploitation, reverse engineering, cryptography<br>🩻 Also interested in low-level programming, operating systems and computer architecture<br>👯 I’m looking to collaborate on projects related to security<br>🧑🏻‍🎓 Currently 3rd year student of Cybersecurity at Warsaw University of Technology<br>🔒 Currently working at Samsung R&D as Security Engineer  - performing Security Assessment<br>🌱 Currently building my own home lab<br>💬 You can contact with me at Discord: ad1s0n
+👾 Student with deep passion for security engineering and penetration tests<br>🩻 Also interested in programming, operating systems, computer architecture and IoT<br>👯 I’m looking to collaborate on projects related to security<br>🧑🏻‍🎓 Currently 4th year student of Cybersecurity at Warsaw University of Technology<br>🔒 Currently working at Samsung R&D as Security Engineer<br>🌱 Currently focused on fuzzing<br>💬 You can contact with me at Discord: ad1s0n
 
 
 # 💻 Tech Stack:
